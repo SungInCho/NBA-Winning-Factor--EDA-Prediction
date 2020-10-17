@@ -1,6 +1,6 @@
 # Project: Logistic Regression : NBA's Winning Factor
 
-### Data folder
+### Figs folder
 
-The data directory contains data used in the analysis. This is treated as read only; in paricular the python files are never allowed to write to the files in here. Depending on the project, these might be csv files, a database, and the directory itself may have subdirectories.
+The figs directory contains the figures. This directory only contains generated files; that is, one should always be able to delete the contents and regenerate them.
 

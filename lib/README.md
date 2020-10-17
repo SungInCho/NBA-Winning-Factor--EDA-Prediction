@@ -1,6 +1,6 @@
 # Project: Logistic Regression : NBA's Winning Factor
 
-### Data folder
+### Code lib Folder
 
-The data directory contains data used in the analysis. This is treated as read only; in paricular the python files are never allowed to write to the files in here. Depending on the project, these might be csv files, a database, and the directory itself may have subdirectories.
+The lib directory contains various files with function definitions (but only function definitions - no code that actually runs).
 
