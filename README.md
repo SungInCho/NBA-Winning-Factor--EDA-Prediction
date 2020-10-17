@@ -3,7 +3,7 @@
 <img src="figs/nba_teams.jpg" width="500">
 
 
-### Project Result(/NBA’s Winning Factor_ How to Make Playoff)
+### [Project Result](/NBA’s Winning Factor_ How to Make Playoff)
 
 + This project is conducted by Sung In Cho (sc4393)
 
