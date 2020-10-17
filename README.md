@@ -2,7 +2,7 @@
 
 <img src="figs/nba_teams.jpg" width="500">
 
-### [Project Result](doc/NBA_Result.pdf)
+### Project Result [.pdf](doc/NBA_Result.pdf) [.html](doc/EDA_NBA.html)
 
 + This project is conducted by Sung In Cho (sc4393)
 
